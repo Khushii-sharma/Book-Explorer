@@ -6,6 +6,7 @@ ChatGPT was used to:
 - Break down the problem statement into clear, manageable tasks
 - Understand how infinite scrolling and paginated APIs work
 - Clarify expectations around performance, UI, and responsiveness
+  
 Example Prompt: **Explain how infinite scrolling works with paginated APIs in a Next.js app**
 
 ### 2. Planning Folder Structure & Data Flow
@@ -13,6 +14,7 @@ AI helped in:
 - Designing a clean and scalable folder structure
 - Deciding separation of concerns (UI, hooks, API layer)
 - Understanding how data flows from API → hook → UI components
+  
 Example Prompts:**Suggest a clean folder structure for a Next.js App Router project using TanStack Query**
                 **Explain how data should flow from an API fetcher to a grid component using infinite queries**
 
@@ -25,6 +27,7 @@ Example Prompt: **Which libraries are best suited for infinite scrolling and cac
 AI was used as a debugging assistant to:
 - Resolve hydration errors
 - Understand runtime errors and stack traces
+  
 Example Prompts: **What causes hydration errors in Next.js and how can they be resolved?**
 
 ### 5. UI/UX Improvements
